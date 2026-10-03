@@ -1,0 +1,552 @@
+{
+  "versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "statsmodels": "0.15.0"
+  },
+  "independent_logit_max_difference": 1.6864287744056128e-13,
+  "independent_cox_max_difference": 1.2323475573339238e-14,
+  "cross_validation": {
+    "n": 6584,
+    "events": 1126,
+    "observed": 0.1710206561360875,
+    "predicted": 0.17092889730443486,
+    "brier": 0.13554713930082188,
+    "auc": 0.6457558673467727,
+    "log_loss": 0.4371381008102707
+  },
+  "folds": [
+    {
+      "n": 1360,
+      "events": 227,
+      "observed": 0.16691176470588234,
+      "predicted": 0.17251831227844755,
+      "brier": 0.1352888325426997,
+      "auc": 0.6245786205582622,
+      "log_loss": 0.4380722553640748
+    },
+    {
+      "n": 1276,
+      "events": 203,
+      "observed": 0.1590909090909091,
+      "predicted": 0.17333912989054548,
+      "brier": 0.12699038708103982,
+      "auc": 0.6576653092705411,
+      "log_loss": 0.4151882569805271
+    },
+    {
+      "n": 1298,
+      "events": 229,
+      "observed": 0.17642526964560862,
+      "predicted": 0.1718755533270931,
+      "brier": 0.13755370306784317,
+      "auc": 0.6767415165787721,
+      "log_loss": 0.4381061399245788
+    },
+    {
+      "n": 1345,
+      "events": 221,
+      "observed": 0.16431226765799256,
+      "predicted": 0.17092861051874633,
+      "brier": 0.12986487616188333,
+      "auc": 0.6540917215503776,
+      "log_loss": 0.42325726278015624
+    },
+    {
+      "n": 1305,
+      "events": 246,
+      "observed": 0.18850574712643678,
+      "predicted": 0.16597454103225584,
+      "brier": 0.14804356625543239,
+      "auc": 0.6301695878148583,
+      "log_loss": 0.4709701030429999
+    }
+  ],
+  "calibration_deciles": [
+    {
+      "n": 659,
+      "predicted": 0.06690960082496342,
+      "observed": 0.08497723823975721
+    },
+    {
+      "n": 659,
+      "predicted": 0.08853560085241313,
+      "observed": 0.09863429438543247
+    },
+    {
+      "n": 659,
+      "predicted": 0.10559100186656538,
+      "observed": 0.10925644916540213
+    },
+    {
+      "n": 659,
+      "predicted": 0.12655279684868276,
+      "observed": 0.10318664643399089
+    },
+    {
+      "n": 658,
+      "predicted": 0.15623984698834784,
+      "observed": 0.1413373860182371
+    },
+    {
+      "n": 658,
+      "predicted": 0.17690496680038248,
+      "observed": 0.20212765957446807
+    },
+    {
+      "n": 658,
+      "predicted": 0.19259322537132173,
+      "observed": 0.22340425531914893
+    },
+    {
+      "n": 658,
+      "predicted": 0.20680219294090016,
+      "observed": 0.1595744680851064
+    },
+    {
+      "n": 658,
+      "predicted": 0.22950369119396516,
+      "observed": 0.22188449848024316
+    },
+    {
+      "n": 658,
+      "predicted": 0.36010608976535546,
+      "observed": 0.3662613981762918
+    }
+  ],
+  "calibration_intercept": -0.08226053049041077,
+  "calibration_slope": 0.9441768399061091,
+  "temporal_validation": {
+    "n": 2870,
+    "events": 573,
+    "observed": 0.19965156794425087,
+    "predicted": 0.13134045748174444,
+    "brier": 0.16215102539599324,
+    "auc": 0.5720292269832189,
+    "log_loss": 0.5145219634954958,
+    "training_n": 3714,
+    "note": "Treino rodadas 2–5, teste rodada 8; especificação sem indicadores de rodada. Não mede inadimplência conciliada."
+  },
+  "time_interactions": [
+    {
+      "cutoff": 365,
+      "variable": "Log do lance × período posterior",
+      "ratio": 1.0086750673051472,
+      "lo": 0.9276042383294073,
+      "hi": 1.0968313310376863,
+      "p": 0.8398759925499572,
+      "covariance": "Informação do modelo; não robusta por origem. Contraste diagnóstico, não teste causal.",
+      "p_holm": 0.8398759925499572
+    },
+    {
+      "cutoff": 365,
+      "variable": "Proxy estratégica × período posterior",
+      "ratio": 1.1984755893436039,
+      "lo": 0.88233149359744,
+      "hi": 1.6278958063666535,
+      "p": 0.24655922235067362,
+      "covariance": "Informação do modelo; não robusta por origem. Contraste diagnóstico, não teste causal.",
+      "p_holm": 0.6301884622964493
+    },
+    {
+      "cutoff": 730,
+      "variable": "Log do lance × período posterior",
+      "ratio": 1.0538720658975307,
+      "lo": 0.9708538344223208,
+      "hi": 1.1439892308196815,
+      "p": 0.2100628207654831,
+      "covariance": "Informação do modelo; não robusta por origem. Contraste diagnóstico, não teste causal.",
+      "p_holm": 0.6301884622964493
+    },
+    {
+      "cutoff": 730,
+      "variable": "Proxy estratégica × período posterior",
+      "ratio": 0.656253368854687,
+      "lo": 0.48884178000150874,
+      "hi": 0.8809977005889241,
+      "p": 0.005060459881383009,
+      "covariance": "Informação do modelo; não robusta por origem. Contraste diagnóstico, não teste causal.",
+      "p_holm": 0.020241839525532036
+    }
+  ],
+  "bootstrap_replicates": 1000,
+  "bootstrap_origin_ci": [
+    {
+      "day": 365,
+      "estimate": 0.03108395324123276,
+      "lo": 0.02748708329054234,
+      "hi": 0.03506919192924602,
+      "bootstrap_sd": 0.00197824988646506
+    },
+    {
+      "day": 730,
+      "estimate": 0.08434533882831009,
+      "lo": 0.07768803148936604,
+      "hi": 0.0907272246612663,
+      "bootstrap_sd": 0.0033377940131855298
+    }
+  ],
+  "stock_audit_design": {
+    "population": 30861,
+    "sample": 410,
+    "strata": [
+      {
+        "stratum": "estrategico|conflito|apto",
+        "N": 177,
+        "n": 8,
+        "weight": 22.125
+      },
+      {
+        "stratum": "estrategico|sem_conflito|apto",
+        "N": 5260,
+        "n": 68,
+        "weight": 77.3529411764706
+      },
+      {
+        "stratum": "estrategico|sem_conflito|somente_scm",
+        "N": 1742,
+        "n": 23,
+        "weight": 75.73913043478261
+      },
+      {
+        "stratum": "outro|conflito|apto",
+        "N": 251,
+        "n": 8,
+        "weight": 31.375
+      },
+      {
+        "stratum": "outro|sem_conflito|apto",
+        "N": 12608,
+        "n": 163,
+        "weight": 77.34969325153374
+      },
+      {
+        "stratum": "outro|sem_conflito|somente_scm",
+        "N": 10823,
+        "n": 140,
+        "weight": 77.30714285714286
+      }
+    ],
+    "verified": 0,
+    "error_rate": null,
+    "status": "Sorteio executado. Revisão documental humana ainda não realizada; nenhuma acurácia presumida."
+  },
+  "cession_audit_design": {
+    "population": 7528,
+    "sample": 325,
+    "strata": [
+      {
+        "stratum": "1|cessao",
+        "N": 8,
+        "n": 8,
+        "weight": 1.0
+      },
+      {
+        "stratum": "1|sem_cessao",
+        "N": 46,
+        "n": 8,
+        "weight": 5.75
+      },
+      {
+        "stratum": "2|cessao",
+        "N": 259,
+        "n": 10,
+        "weight": 25.9
+      },
+      {
+        "stratum": "2|sem_cessao",
+        "N": 1558,
+        "n": 62,
+        "weight": 25.129032258064516
+      },
+      {
+        "stratum": "3|cessao",
+        "N": 146,
+        "n": 8,
+        "weight": 18.25
+      },
+      {
+        "stratum": "3|sem_cessao",
+        "N": 709,
+        "n": 28,
+        "weight": 25.321428571428573
+      },
+      {
+        "stratum": "4|cessao",
+        "N": 57,
+        "n": 8,
+        "weight": 7.125
+      },
+      {
+        "stratum": "4|sem_cessao",
+        "N": 415,
+        "n": 17,
+        "weight": 24.41176470588235
+      },
+      {
+        "stratum": "5|cessao",
+        "N": 104,
+        "n": 8,
+        "weight": 13.0
+      },
+      {
+        "stratum": "5|sem_cessao",
+        "N": 966,
+        "n": 38,
+        "weight": 25.42105263157895
+      },
+      {
+        "stratum": "8|cessao",
+        "N": 322,
+        "n": 13,
+        "weight": 24.76923076923077
+      },
+      {
+        "stratum": "8|sem_cessao",
+        "N": 2938,
+        "n": 117,
+        "weight": 25.11111111111111
+      }
+    ],
+    "verified": 0,
+    "error_rate": null,
+    "status": "Sorteio executado. Revisão documental humana ainda não realizada; nenhuma acurácia presumida."
+  },
+  "pilot_power": [
+    {
+      "baseline": 0.05,
+      "relative_reduction": 0.2,
+      "p1": 0.04000000000000001,
+      "icc": 0,
+      "cluster_size": 20,
+      "design_effect": 1,
+      "n_per_arm_independent": 6745,
+      "n_per_arm_cluster_adjusted": 6745,
+      "clusters_per_arm": 338,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.05,
+      "relative_reduction": 0.2,
+      "p1": 0.04000000000000001,
+      "icc": 0.01,
+      "cluster_size": 20,
+      "design_effect": 1.19,
+      "n_per_arm_independent": 6745,
+      "n_per_arm_cluster_adjusted": 8027,
+      "clusters_per_arm": 402,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.05,
+      "relative_reduction": 0.2,
+      "p1": 0.04000000000000001,
+      "icc": 0.05,
+      "cluster_size": 20,
+      "design_effect": 1.9500000000000002,
+      "n_per_arm_independent": 6745,
+      "n_per_arm_cluster_adjusted": 13153,
+      "clusters_per_arm": 658,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.05,
+      "relative_reduction": 0.3,
+      "p1": 0.034999999999999996,
+      "icc": 0,
+      "cluster_size": 20,
+      "design_effect": 1,
+      "n_per_arm_independent": 2838,
+      "n_per_arm_cluster_adjusted": 2838,
+      "clusters_per_arm": 142,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.05,
+      "relative_reduction": 0.3,
+      "p1": 0.034999999999999996,
+      "icc": 0.01,
+      "cluster_size": 20,
+      "design_effect": 1.19,
+      "n_per_arm_independent": 2838,
+      "n_per_arm_cluster_adjusted": 3378,
+      "clusters_per_arm": 169,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.05,
+      "relative_reduction": 0.3,
+      "p1": 0.034999999999999996,
+      "icc": 0.05,
+      "cluster_size": 20,
+      "design_effect": 1.9500000000000002,
+      "n_per_arm_independent": 2838,
+      "n_per_arm_cluster_adjusted": 5535,
+      "clusters_per_arm": 277,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.1,
+      "relative_reduction": 0.2,
+      "p1": 0.08000000000000002,
+      "icc": 0,
+      "cluster_size": 20,
+      "design_effect": 1,
+      "n_per_arm_independent": 3213,
+      "n_per_arm_cluster_adjusted": 3213,
+      "clusters_per_arm": 161,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.1,
+      "relative_reduction": 0.2,
+      "p1": 0.08000000000000002,
+      "icc": 0.01,
+      "cluster_size": 20,
+      "design_effect": 1.19,
+      "n_per_arm_independent": 3213,
+      "n_per_arm_cluster_adjusted": 3824,
+      "clusters_per_arm": 192,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.1,
+      "relative_reduction": 0.2,
+      "p1": 0.08000000000000002,
+      "icc": 0.05,
+      "cluster_size": 20,
+      "design_effect": 1.9500000000000002,
+      "n_per_arm_independent": 3213,
+      "n_per_arm_cluster_adjusted": 6266,
+      "clusters_per_arm": 314,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.1,
+      "relative_reduction": 0.3,
+      "p1": 0.06999999999999999,
+      "icc": 0,
+      "cluster_size": 20,
+      "design_effect": 1,
+      "n_per_arm_independent": 1356,
+      "n_per_arm_cluster_adjusted": 1356,
+      "clusters_per_arm": 68,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.1,
+      "relative_reduction": 0.3,
+      "p1": 0.06999999999999999,
+      "icc": 0.01,
+      "cluster_size": 20,
+      "design_effect": 1.19,
+      "n_per_arm_independent": 1356,
+      "n_per_arm_cluster_adjusted": 1614,
+      "clusters_per_arm": 81,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.1,
+      "relative_reduction": 0.3,
+      "p1": 0.06999999999999999,
+      "icc": 0.05,
+      "cluster_size": 20,
+      "design_effect": 1.9500000000000002,
+      "n_per_arm_independent": 1356,
+      "n_per_arm_cluster_adjusted": 2645,
+      "clusters_per_arm": 133,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.17,
+      "relative_reduction": 0.2,
+      "p1": 0.136,
+      "icc": 0,
+      "cluster_size": 20,
+      "design_effect": 1,
+      "n_per_arm_independent": 1759,
+      "n_per_arm_cluster_adjusted": 1759,
+      "clusters_per_arm": 88,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.17,
+      "relative_reduction": 0.2,
+      "p1": 0.136,
+      "icc": 0.01,
+      "cluster_size": 20,
+      "design_effect": 1.19,
+      "n_per_arm_independent": 1759,
+      "n_per_arm_cluster_adjusted": 2094,
+      "clusters_per_arm": 105,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.17,
+      "relative_reduction": 0.2,
+      "p1": 0.136,
+      "icc": 0.05,
+      "cluster_size": 20,
+      "design_effect": 1.9500000000000002,
+      "n_per_arm_independent": 1759,
+      "n_per_arm_cluster_adjusted": 3431,
+      "clusters_per_arm": 172,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.17,
+      "relative_reduction": 0.3,
+      "p1": 0.119,
+      "icc": 0,
+      "cluster_size": 20,
+      "design_effect": 1,
+      "n_per_arm_independent": 745,
+      "n_per_arm_cluster_adjusted": 745,
+      "clusters_per_arm": 38,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.17,
+      "relative_reduction": 0.3,
+      "p1": 0.119,
+      "icc": 0.01,
+      "cluster_size": 20,
+      "design_effect": 1.19,
+      "n_per_arm_independent": 745,
+      "n_per_arm_cluster_adjusted": 887,
+      "clusters_per_arm": 45,
+      "alpha": 0.05,
+      "power": 0.8
+    },
+    {
+      "baseline": 0.17,
+      "relative_reduction": 0.3,
+      "p1": 0.119,
+      "icc": 0.05,
+      "cluster_size": 20,
+      "design_effect": 1.9500000000000002,
+      "n_per_arm_independent": 745,
+      "n_per_arm_cluster_adjusted": 1453,
+      "clusters_per_arm": 73,
+      "alpha": 0.05,
+      "power": 0.8
+    }
+  ],
+  "pilot_status": "Protocolo e dimensionamento executados. Não houve alteração de edital, tratamento de participantes ou experimento de campo."
+}

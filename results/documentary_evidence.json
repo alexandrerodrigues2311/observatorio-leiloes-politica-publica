@@ -1,0 +1,42 @@
+[
+  {
+    "file": "dou_20220530_104.pdf",
+    "date": "30/05/2022",
+    "process": "867.186/2021 → 866.343/2022",
+    "page": "104",
+    "claim": "Anuência e autorização para averbar cessão parcial ao processo destacado.",
+    "limit": "A autorização não estabelece, isoladamente, a data da efetiva averbação nem o preço do contrato.",
+    "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=30%2F05%2F2022&jornal=515&pagina=104",
+    "sha256": "0e0db8ecd4a71066452c81cd1ac8cb5322b36245865608b411e4db2e8b5f083d"
+  },
+  {
+    "file": "dou_20221207_154.pdf",
+    "date": "07/12/2022",
+    "process": "867.186/2021 → 866.343/2022",
+    "page": "154",
+    "claim": "Publicação do Alvará 9419/2022 para o processo destacado, documentando a ramificação.",
+    "limit": "Não comprova motivação econômica, preço da cessão ou início de produção.",
+    "url": "https://pesquisa.in.gov.br/imprensa/servlet/INPDFViewer?captchafield=firstAccess&data=07%2F12%2F2022&jornal=515&pagina=154",
+    "sha256": "e6e2102e88b3bad0d24aa2cd7a49f256ccb260841c14db9bf8b726947e47d750"
+  },
+  {
+    "file": "alvara_salinas.pdf",
+    "date": "20/10/2021",
+    "process": "831.158/2021",
+    "page": "50–51 do arquivo",
+    "claim": "Alvará de pesquisa 8247/2021 vinculado ao processo de Salinas.",
+    "limit": "Título de pesquisa não equivale a licença ambiental ou produção.",
+    "url": "https://www.gov.br/anm/pt-br/assuntos/exploracao-mineral/titulos-minerarios/alvara-de-pesquisa/2021/8223-a-8256-60213-alv-529mg.pdf",
+    "sha256": "06addf4273fa79069a4c829780ff696fabb74e8f93b5c85e89fec093a9299339"
+  },
+  {
+    "file": "licenca_salinas.pdf",
+    "date": "2024",
+    "process": "831.158/2021",
+    "page": "4 do arquivo",
+    "claim": "Parecer ambiental PT 57/2024 identifica o processo, área e substâncias em contexto próprio.",
+    "limit": "Capacidade e empregos planejados não são resultados realizados. A substância de um documento posterior não deve reclassificar retroativamente a oferta.",
+    "url": "https://sistemas.meioambiente.mg.gov.br/licenciamento/uploads/GuKJRHhCzE9JdvA9_lWIcMVxyv9DiK3X.pdf",
+    "sha256": "a0d35b0a8b0b9675085dbd20c166f60dabb4685a73e851e3f2800ba5c8cc1b6e"
+  }
+]

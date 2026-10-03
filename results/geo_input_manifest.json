@@ -1,0 +1,17 @@
+[
+  {
+    "file": "SIGMINE_BRASIL.zip",
+    "url": "https://dadosabertos.anm.gov.br/SIGMINE/PROCESSOS_MINERARIOS/BRASIL.zip",
+    "sha256": "1569f0ea6cc4b27f97eef32165d4d2ca703ee9d54d739db7416ee07528a562c6"
+  },
+  {
+    "file": "BLOQUEIO.zip",
+    "url": "https://dadosabertos.anm.gov.br/SIGMINE/BLOQUEIO.zip",
+    "sha256": "8c8a5a485b9ad35a849c3aa61a93efa61a3a1895e79c285e2d35b0be9e3a0507"
+  },
+  {
+    "file": "sgb_occurrences.json",
+    "url": "https://geoportal.sgb.gov.br/server/rest/services/geologia/ocorrencias/MapServer/0/query?where=1%3D1&outFields=OBJECTID%2CID_OCORRENCIA%2CSTATUS_ECONOMICO%2CSUBSTANCIAS%2CPROJETO%2CDATA_CADASTRO%2CMETODO_GEOPOSICIONAMENTO&returnGeometry=true&outSR=4674&f=geojson",
+    "sha256": "ba5546c2fceff4677120e6d52d2de0d5f9d0bd923138ca78fb0e93a74b3d6da3"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "year": "1967",
+    "name": "Código de Mineração",
+    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del0227.htm",
+    "status": "Texto consolidado",
+    "rule": "A cessão depende das condições do regime e da averbação. Separar requerimento, anuência, autorização e efetivação. Arts. 22 e 55.",
+    "application": "O evento deve ser interpretado pelo conteúdo e pelo regime aplicável na data do ato."
+  },
+  {
+    "year": "1999",
+    "name": "Lei 9.784",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm",
+    "status": "Em vigor",
+    "rule": "Legalidade, motivação, proporcionalidade e garantias do processo administrativo orientam a decisão.",
+    "application": "Alertas estatísticos instruem conferências. Não substituem fundamento legal, contraditório ou motivação individual."
+  },
+  {
+    "year": "2020",
+    "name": "Decreto 10.411",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/decreto/d10411.htm",
+    "status": "Texto consolidado",
+    "rule": "A análise de impacto regulatório disciplina a avaliação de alternativas nos casos abrangidos.",
+    "application": "Documentar problema, alternativas, custos, distribuição de efeitos e estratégia de monitoramento."
+  },
+  {
+    "year": "2020",
+    "name": "Resolução ANM 24",
+    "url": "https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirTextoAto&cod_menu=8731&cod_modulo=351&link=S&numeroAto=00000024&orgao=ANM%2FMME&seqAto=000&tipo=RES&valorAno=2020",
+    "status": "Consultar texto consolidado e alterações",
+    "rule": "Disponibilidade é procedimento de destinação. Participação não equivale a autorização de aproveitamento.",
+    "application": "Aplicar a redação temporal e o edital de cada rodada. Dispositivos revogados não são fundamento automático para sanção atual."
+  },
+  {
+    "year": "2026",
+    "name": "Lei 15.506 de 16 de setembro",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/lei/l15506.htm",
+    "status": "Em vigor com disposições sujeitas a regulamentação",
+    "rule": "A PNMCE prevê critérios próprios de enquadramento, priorização e preço mínimo. O art. 34 remete às diretrizes do CIMCE.",
+    "application": "A lista histórica de 2021 é proxy analítica. Antiguidade cadastral não basta para concluir descumprimento dos prazos da lei nova."
+  },
+  {
+    "year": "2026",
+    "name": "Decreto 13.118 de 16 de setembro",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13118.htm",
+    "status": "Em vigor",
+    "rule": "Regulamenta a organização do CIMCE e de seu grupo consultivo.",
+    "application": "Não equivale à regulamentação integral de todos os instrumentos da PNMCE."
+  }
+]

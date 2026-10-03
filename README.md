@@ -26,3 +26,7 @@ Dados pessoais de titulares e observações livres de eventos não são publicad
 [Google Colab](https://colab.research.google.com/drive/1RjjzU5tZpxo1UASG1LxkruDqcuR59-M_)
 
 Fontes oficiais: [Cadastro Mineiro](https://dadosabertos.anm.gov.br/SCM/) e [SOPLE](https://dadosabertos.anm.gov.br/SOPLE/).
+
+## Ampliação territorial e estatística
+
+Revisão 4: geometria de 30.216 registros, união de 29,83 milhões de hectares, cruzamentos com bloqueios e ocorrências do SGB; validação fora da amostra e temporal, 1.000 reamostragens por origem, amostras de auditoria com 735 unidades e 18 cenários de poder. Os atos originais de casos selecionados e a matriz jurídica estão documentados. A revisão humana das amostras e o experimento de campo não foram executados. Ausência de interseção com bloqueios não certifica disponibilidade jurídica. Infraestrutura e condicionantes territoriais completos permanecem pendentes.
