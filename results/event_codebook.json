@@ -1,0 +1,1920 @@
+[
+  {
+    "code": "103",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO TOTAL ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "108",
+    "label": "REQ PESQ/PEDIDO INCORPORCAO/CESSÃO PROTOC",
+    "stage": "pedido",
+    "family": "misto_incorporacao_cessao",
+    "justification": "Descrição mistura incorporação e cessão; excluído da definição estrita."
+  },
+  {
+    "code": "118",
+    "label": "REQ PESQ/AVERB INCORPOR/CESSÃO APROV PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "119",
+    "label": "REQ PESQ/AVERB INCORPOR/CESSÃO EFETIVADA",
+    "stage": "efetivacao",
+    "family": "misto_incorporacao_cessao",
+    "justification": "Descrição mistura incorporação e cessão; excluído da definição estrita."
+  },
+  {
+    "code": "149",
+    "label": "REQ PESQ/NEGA ANUÊNCIA CESSAO TOT DIR PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "152",
+    "label": "REQ PESQ/NEGA ANUÊNCIA CESSAO PARC DIR PUBL",
+    "stage": "negativa",
+    "family": "cessao_parcial",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "153",
+    "label": "REQ PESQ/TORNA S/EFEITO ANUÊNCIA CESSÃO PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "167",
+    "label": "REQ LAV/CESSÃO-INCORP REQUERIMENTO LAV PUBL",
+    "stage": "outro",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "175",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO PARCIAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "176",
+    "label": "AUT PESQ/ALVARÁ PESQUISA PROVENIENTE CESSÃO PARCIAL PUBL",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "193",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO TOTAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "194",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO PARCIAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_parcial",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "249",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO TOTAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "281",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO TOTAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "282",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO TOTAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "330",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL DIR REQ LAV PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "331",
+    "label": "REQ LAV/TRANSF DIREITOS -CESSÃO TOTAL DIR REQ LAV APROV PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "332",
+    "label": "REQ LAV/TRANSF DIREITOS -CESSÃO TOTAL DIR REQ LAV EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "338",
+    "label": "REQ LAV/TRANSF DIREITOS -CESSÃO TOTAL DIR REQ LAV NEG PUBL",
+    "stage": "outro",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "339",
+    "label": "PLG/INCORPORAÇÃO/CESSÃO EFETIVADA",
+    "stage": "efetivacao",
+    "family": "misto_incorporacao_cessao",
+    "justification": "Descrição mistura incorporação e cessão; excluído da definição estrita."
+  },
+  {
+    "code": "387",
+    "label": "REQ PLG/ANUÊNCIA CESSÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "422",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL NEGADA MME PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "451",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL APROVADA MME PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "452",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL MME EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "465",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "469",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO PARC (DESMEMBR) NEG MME PUBL",
+    "stage": "outro",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "527",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO TOTAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "528",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO PARCIAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_parcial",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "533",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO PARCIAL ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_parcial",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "540",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO PARCIAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "544",
+    "label": "AUT PESQ/TORNA S/EFEITO DESP NEGOU CESSÃO PARCIAL ALV PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_parcial",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "545",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO PARCIAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "546",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL REQ LAV PROTOC",
+    "stage": "pedido",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "551",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO DIREITOS CANCELADA MME PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "557",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO PARC (DESMEMBR) APR MME PUBL",
+    "stage": "outro",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "564",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO DIREITOS ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "566",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL REQ LAV APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "571",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO TOTAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "572",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO TOTAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "583",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL REQ LAV EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "584",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO TOTAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "589",
+    "label": "REQ PLG/SOLICITA ANU PRÉVIA CESSÃO TOTAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "590",
+    "label": "REQ PLG/AVERBAÇÃO CESSÃO TOTAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "591",
+    "label": "REQ PLG/SOLICITA DISTRATO CESSÃO TOTAL PROTOC",
+    "stage": "pedido_distrato",
+    "family": "cessao_total",
+    "justification": "Solicitação de desfazimento não equivale a desfazimento efetivo."
+  },
+  {
+    "code": "593",
+    "label": "REQ LICEN/SOLICITA ANU PRÉVIA CESSÃO TOTAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "594",
+    "label": "REQ LICEN/AVERBAÇÃO CESSÃO TOTAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "595",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO TOTAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "600",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO PARCIAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "601",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO PARCIAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "602",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO PARCIAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "603",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL REQ LAV NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_parcial",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "627",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO PARCIAL (DESMEMBR) PROTOC",
+    "stage": "pedido",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "628",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO PARC (DESMEMBR) MME EFETIV",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "629",
+    "label": "REQ PESQ/ASSENTIMENTO CDN/CESSÃO DIREITOS AUTORIZADO",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "630",
+    "label": "AUT PESQ/ASSENTIMENTO CDN/CESSÃO DIREITOS AUTORIZADO",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "631",
+    "label": "REQ LAV/ASSENTIMENTO CDN/CESSÃO DIREITOS AUTORIZADO",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "632",
+    "label": "CONC LAV/ASSENTIMENTO CDN/CESSÃO DIREITOS AUTORIZADO",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "678",
+    "label": "CASSAÇÃO ANUENCIA PRÉVIA CESSÃO DIREITOS PUBL",
+    "stage": "outro",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "690",
+    "label": "PAGAMENTO EMOLUMENTOS CESSÃO TOTAL DIREITOS PROTOC",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "691",
+    "label": "PAGAMENTO EMOLUMENTOS CESSÃO PARCIAL DIREITOS PROTOC",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "692",
+    "label": "PAGAMENTO EMOLUMENTOS INCORP FUSÃO CISÃO EMPRESA PROTOC",
+    "stage": "contexto",
+    "family": "incorporacao",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "748",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO TOTAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "749",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO TOTAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "750",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO TOTAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "764",
+    "label": "LICEN/NEGA ANUÊNCIA CESSÃO TOTAL PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "765",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO PARCIAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_parcial",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "776",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO PARCIAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "789",
+    "label": "REQ LICEN/CESSÃO TOTAL REQ REGISTRO LICEN PUBL",
+    "stage": "outro",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "802",
+    "label": "REQ LAV/TRANSF DIREITO -CESSÃO PARCIAL DIR REQ LAV NEG PUBL",
+    "stage": "outro",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1009",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO DIREITOS CANCELADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1011",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO ANUÊNCIA CASSADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1038",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO DIREITOS CANCELADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1040",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO ANUÊNCIA CASSADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1042",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL REQ LAV PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1043",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL REQ LAV APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1044",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL REQ LAV EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1045",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL REQ LAV NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1058",
+    "label": "AUT PESQ/TRANSF DIREITOS -CESSÃO PARCIAL DIR REQ LAV PROTOC",
+    "stage": "pedido",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1079",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO ANUÊNCIA CASSADA MME PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1177",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO DIREITOS CANCELADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1181",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO PARCIAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1182",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO PARCIAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1185",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO ANUÊNCIA CASSADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1230",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO DIREITOS CANCELADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1234",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO ANUÊNCIA CASSADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1274",
+    "label": "REQ PESQ/REQU PROVENIENTE DE CESSÃO PARCIAL PROTOC",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "1275",
+    "label": "REQ LAV/REQU PROVENIENTE DE CESSÃO PARCIAL PROTOC",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "1276",
+    "label": "REQ PLG/REQU PROVENIENTE DE CESSÃO PARCIAL PROTOC",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "1277",
+    "label": "REQ LICEN/REQU PROVENIENTE DE CESSÃO PARCIAL PROTOC",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "1362",
+    "label": "REQ LAV/TRANSF DIREITOS -CESSÃO PARCIAL DIR REQ LAV APR PUBL",
+    "stage": "outro",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1363",
+    "label": "REQ LAV/TRANSF DIREITOS -CESSÃO PARCIAL DIR REQ LAV EFETIV",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1425",
+    "label": "LICEN/TRANSF DIREITOS-CESSÃO DIREITOS ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1502",
+    "label": "REQ PESQ/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1503",
+    "label": "REQ PESQ/TRANSF DIREITOS -CISÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1504",
+    "label": "REQ PESQ/TRANSF DIREITOS -CISÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1505",
+    "label": "REQ PESQ/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1506",
+    "label": "REQ PESQ/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1507",
+    "label": "REQ PESQ/TRANSF DIREITOS -FUSÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1508",
+    "label": "REQ PESQ/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1509",
+    "label": "REQ PESQ/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1510",
+    "label": "REQ PESQ/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1511",
+    "label": "REQ PESQ/TRANSF DIREITOS -INCORPORAÇÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1512",
+    "label": "REQ PESQ/TRANSF DIREITOS -INCORPORAÇÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1513",
+    "label": "REQ PESQ/TRANSF DIREITOS -INCORPORAÇÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1518",
+    "label": "REQ PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1519",
+    "label": "REQ PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROVAD PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1520",
+    "label": "REQ PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGADO PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1521",
+    "label": "REQ PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERBADO",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1522",
+    "label": "AUT PESQ/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1523",
+    "label": "AUT PESQ/TRANSF DIREITOS -CISÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1524",
+    "label": "AUT PESQ/TRANSF DIREITOS -CISÃO AVERBADA",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1525",
+    "label": "AUT PESQ/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1526",
+    "label": "AUT PESQ/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1527",
+    "label": "AUT PESQ/TRANSF DIREITOS -FUSÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1528",
+    "label": "AUT PESQ/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1529",
+    "label": "AUT PESQ/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1530",
+    "label": "AUT PESQ/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1531",
+    "label": "AUT PESQ/TRANSF DIREITOS -INCORPORAÇÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1532",
+    "label": "AUT PESQ/TRANSF DIREITOS -INCORPORAÇÃO NEGADA PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1533",
+    "label": "AUT PESQ/TRANSF DIREITOS -INCORPORAÇÃO AVERBADA",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1538",
+    "label": "AUT PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1539",
+    "label": "AUT PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROV PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1540",
+    "label": "AUT PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGADO PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1541",
+    "label": "AUT PESQ/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERB",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1542",
+    "label": "REQ LAV/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1543",
+    "label": "REQ LAV/TRANSF DIREITOS -CISÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1544",
+    "label": "REQ LAV/TRANSF DIREITOS -CISÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1545",
+    "label": "REQ LAV/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1546",
+    "label": "REQ LAV/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1547",
+    "label": "REQ LAV/TRANSF DIREITOS -FUSÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1548",
+    "label": "REQ LAV/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1549",
+    "label": "REQ LAV/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1550",
+    "label": "REQ LAV/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1551",
+    "label": "REQ LAV/TRANSF DIREITOS -INCORPORAÇÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1552",
+    "label": "REQ LAV/TRANSF DIREITOS -INCORPORAÇÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1553",
+    "label": "REQ LAV/TRANSF DIREITOS -INCORPORAÇÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1558",
+    "label": "REQ LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1559",
+    "label": "REQ LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROV PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1560",
+    "label": "REQ LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGADO PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1561",
+    "label": "REQ LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERBADO",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1562",
+    "label": "CONC LAV/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1563",
+    "label": "CONC LAV/TRANSF DIREITOS -CISÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1564",
+    "label": "CONC LAV/TRANSF DIREITOS -CISÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1565",
+    "label": "CONC LAV/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1566",
+    "label": "CONC LAV/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1567",
+    "label": "CONC LAV/TRANSF DIREITOS -FUSÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1568",
+    "label": "CONC LAV/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1569",
+    "label": "CONC LAV/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1570",
+    "label": "CONC LAV/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1571",
+    "label": "CONC LAV/TRANSF DIREITOS -INCORPORAÇÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1572",
+    "label": "CONC LAV/TRANSF DIREITOS -INCORPORAÇÃO NEGADA PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1573",
+    "label": "CONC LAV/TRANSF DIREITOS -INCORPORAÇÃO AVERBADA",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1578",
+    "label": "CONC LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1579",
+    "label": "CONC LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROV PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1580",
+    "label": "CONC LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGADO PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1581",
+    "label": "CONC LAV/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERB",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1582",
+    "label": "REQ LICEN/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1583",
+    "label": "REQ LICEN/TRANSF DIREITOS -CISÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1584",
+    "label": "REQ LICEN/TRANSF DIREITOS -CISÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1585",
+    "label": "REQ LICEN/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1586",
+    "label": "REQ LICEN/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1587",
+    "label": "REQ LICEN/TRANSF DIREITOS -FUSÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1588",
+    "label": "REQ LICEN/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1589",
+    "label": "REQ LICEN/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1590",
+    "label": "REQ LICEN/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1591",
+    "label": "REQ LICEN/TRANSF DIREITOS -INCORPORAÇÃO APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1592",
+    "label": "REQ LICEN/TRANSF DIREITOS -INCORPORAÇÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1593",
+    "label": "REQ LICEN/TRANSF DIREITOS -INCORPORAÇÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1598",
+    "label": "REQ LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1599",
+    "label": "REQ LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROVA PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1600",
+    "label": "REQ LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGA PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1601",
+    "label": "REQ LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERB",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1602",
+    "label": "LICEN/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1603",
+    "label": "LICEN/TRANSF DIREITOS -CISÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1604",
+    "label": "LICEN/TRANSF DIREITOS -CISÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1605",
+    "label": "LICEN/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1606",
+    "label": "LICEN/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1607",
+    "label": "LICEN/TRANSF DIREITOS -FUSÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1608",
+    "label": "LICEN/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1609",
+    "label": "LICEN/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1610",
+    "label": "LICEN/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1611",
+    "label": "LICEN/TRANSF DIREITOS -INCORPORAÇÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1612",
+    "label": "LICEN/TRANSF DIREITOS -INCORPORAÇÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1613",
+    "label": "LICEN/TRANSF DIREITOS -INCORPORAÇÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1618",
+    "label": "LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1619",
+    "label": "LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1620",
+    "label": "LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGADO PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1621",
+    "label": "LICEN/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERBADO",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1622",
+    "label": "REQ PLG/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1623",
+    "label": "REQ PLG/TRANSF DIREITOS -CISÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1624",
+    "label": "REQ PLG/TRANSF DIREITOS -CISÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1625",
+    "label": "REQ PLG/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1626",
+    "label": "REQ PLG/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1627",
+    "label": "REQ PLG/TRANSF DIREITOS -FUSÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1628",
+    "label": "REQ PLG/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1629",
+    "label": "REQ PLG/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1630",
+    "label": "REQ PLG/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1631",
+    "label": "REQ PLG/TRANSF DIREITOS -INCORPORAÇÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1632",
+    "label": "REQ PLG/TRANSF DIREITOS -INCORPORAÇÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1633",
+    "label": "REQ PLG/TRANSF DIREITOS -INCORPORAÇÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1638",
+    "label": "REQ PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1639",
+    "label": "REQ PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1640",
+    "label": "REQ PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGADO PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1641",
+    "label": "REQ PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERBADO",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1642",
+    "label": "PLG/TRANSF DIREITOS -CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1643",
+    "label": "PLG/TRANSF DIREITOS -CISÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1644",
+    "label": "PLG/TRANSF DIREITOS -CISÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1645",
+    "label": "PLG/TRANSF DIREITOS -CISÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1646",
+    "label": "PLG/TRANSF DIREITOS -FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1647",
+    "label": "PLG/TRANSF DIREITOS -FUSÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1648",
+    "label": "PLG/TRANSF DIREITOS -FUSÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1649",
+    "label": "PLG/TRANSF DIREITOS -FUSÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1650",
+    "label": "PLG/TRANSF DIREITOS -INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1651",
+    "label": "PLG/TRANSF DIREITOS -INCORPORAÇÃO APROVADO(A) PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1652",
+    "label": "PLG/TRANSF DIREITOS -INCORPORAÇÃO NEGADO PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1653",
+    "label": "PLG/TRANSF DIREITOS -INCORPORAÇÃO AVERBADO",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1658",
+    "label": "PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1659",
+    "label": "PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS APROVADO PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1660",
+    "label": "PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS NEGADO PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1661",
+    "label": "PLG/TRANSF DIREITOS -SUCESSÃO CAUSA MORTIS AVERBADO",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1798",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO DIREITOS ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "1838",
+    "label": "AUT PESQ/TRANSF DIREITOS-CESSÃO TOTAL CADEIA SUCESSÓRIA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1840",
+    "label": "REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL CADEIA SUCESSÓRIA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1841",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL CADEIA SUCESS MME PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1851",
+    "label": "PLG/TRANSF DIREITOS-CESSÃO TOTAL CADEIA SUCESSÓRIA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1884",
+    "label": "AUT PESQ/RELATÓRIO PESQU PROVENIENTE CESSÃO PARCIAL PROTOC",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "1938",
+    "label": "TRANSF DIREITOS - CISÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1939",
+    "label": "TRANSF DIREITOS - CISÃO AVERBADA",
+    "stage": "efetivacao",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1940",
+    "label": "TRANSF DIREITOS - CISÃO NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cisao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1941",
+    "label": "TRANSF DIREITOS - CISÃO PROTOC",
+    "stage": "pedido",
+    "family": "cisao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1946",
+    "label": "TRANSF DIREITOS - FUSÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1947",
+    "label": "TRANSF DIREITOS - FUSÃO AVERBADA",
+    "stage": "efetivacao",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1948",
+    "label": "TRANSF DIREITOS - FUSÃO NEGADA PUBL",
+    "stage": "negativa",
+    "family": "fusao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1949",
+    "label": "TRANSF DIREITOS - FUSÃO PROTOC",
+    "stage": "pedido",
+    "family": "fusao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1950",
+    "label": "TRANSF DIREITOS - INCORPORAÇÃO APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1951",
+    "label": "TRANSF DIREITOS - INCORPORAÇÃO AVERBADA",
+    "stage": "efetivacao",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1952",
+    "label": "TRANSF DIREITOS - INCORPORAÇÃO NEGADA PUBL",
+    "stage": "negativa",
+    "family": "incorporacao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1953",
+    "label": "TRANSF DIREITOS - INCORPORAÇÃO PROTOC",
+    "stage": "pedido",
+    "family": "incorporacao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1954",
+    "label": "TRANSF DIREITOS - SUCESSÃO CAUSA MORTIS APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1955",
+    "label": "TRANSF DIREITOS - SUCESSÃO CAUSA MORTIS AVERBADA",
+    "stage": "efetivacao",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "1956",
+    "label": "TRANSF DIREITOS - SUCESSÃO CAUSA MORTIS NEGADA PUBL",
+    "stage": "negativa",
+    "family": "sucessao",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "1957",
+    "label": "TRANSF DIREITOS - SUCESSÃO CAUSA MORTIS PROTOC",
+    "stage": "pedido",
+    "family": "sucessao",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2070",
+    "label": "TRANSF DIREITOS - INCORPORAÇÃO ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "incorporacao",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "2195",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO DIREITOS CANCELADA ANM PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "2196",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO PARC (DESMEMBR) APR ANM PUBL",
+    "stage": "outro",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2197",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO PARC (DESMEMBR) NEG ANM PUBL",
+    "stage": "outro",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2198",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO PARC (DESMEMBR) ANM EFETIV",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2199",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL APROVADA ANM PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2200",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL CADEIA SUCESS ANM PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2201",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL NEGADA ANM PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "2202",
+    "label": "CONC LAV/TRANSF DIREITOS-CESSÃO TOTAL ANM EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2213",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2222",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL PROTOC",
+    "stage": "pedido",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2253",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO DIREITOS CANCELADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "2254",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_parcial",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "2255",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2256",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_parcial",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2257",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO PARCIAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_parcial",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "2258",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL ANULADA PUBL",
+    "stage": "reversao_candidata",
+    "family": "cessao_total",
+    "justification": "Conferir o ato atingido. Reversão de negativa não equivale a anulação da cessão."
+  },
+  {
+    "code": "2259",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL APROVADA PUBL",
+    "stage": "aprovacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2260",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL EFETIVADA",
+    "stage": "efetivacao",
+    "family": "cessao_total",
+    "justification": "Descrição literal do evento."
+  },
+  {
+    "code": "2261",
+    "label": "DIR REQ LAV/TRANSF DIREITOS-CESSÃO TOTAL NEGADA PUBL",
+    "stage": "negativa",
+    "family": "cessao_total",
+    "justification": "Não representa transferência concluída."
+  },
+  {
+    "code": "2294",
+    "label": "DIR REQ LAV/REQU PROVENIENTE CESSÃO PARCIAL REL APROV PROTOC",
+    "stage": "contexto",
+    "family": "cessao_parcial",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "2462",
+    "label": "AUT PESQ/ASSENTIMENTO CDN CASSADO/CESSÃO DIREITOS",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "2483",
+    "label": "DIR REQ LAV/ASSENTIMENTO CDN CASSADO/CESSÃO DIREITOS",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "2485",
+    "label": "REQ LAV/ASSENTIMENTO CDN CASSADO/CESSÃO DIREITOS",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "2486",
+    "label": "CONC LAV/ASSENTIMENTO CDN CASSADO/CESSÃO DIREITOS",
+    "stage": "contexto",
+    "family": "cessao_total",
+    "justification": "Ato auxiliar; não prova pedido ou efetivação da cessão."
+  },
+  {
+    "code": "2463",
+    "label": "DISPONIB/LEILÃO ELET/PROPOSTA PAGA SEM REQ/RETORNO DISPONIB",
+    "family": "pagamento_continuidade",
+    "stage": "interrupcao",
+    "justification": "Evidência cadastral; não substitui conciliação bancária. Evento limitado ao ciclo correspondente."
+  },
+  {
+    "code": "2464",
+    "label": "DISPONIB/LEILÃO ELET/PROPOSTA NÃO PAGA/RETORNO DISPONIB",
+    "family": "pagamento_continuidade",
+    "stage": "interrupcao",
+    "justification": "Evidência cadastral; não substitui conciliação bancária. Evento limitado ao ciclo correspondente."
+  },
+  {
+    "code": "2466",
+    "label": "DISPONIB/MANIFESTAÇÃO ÚNICA OF PÚBL/SEM PROT REQ/ÁREA LIVRE",
+    "family": "pagamento_continuidade",
+    "stage": "interrupcao",
+    "justification": "Evidência cadastral; não substitui conciliação bancária. Evento limitado ao ciclo correspondente."
+  },
+  {
+    "code": "2471",
+    "label": "DISPONIB/LEILÃO ELET/PROPOSTA PAGA/SEM PROTOC REQ/ÁREA LIVRE",
+    "family": "pagamento_continuidade",
+    "stage": "interrupcao",
+    "justification": "Evidência cadastral; não substitui conciliação bancária. Evento limitado ao ciclo correspondente."
+  },
+  {
+    "code": "2472",
+    "label": "DISPONIB/LEILÃO ELET/PROP ÚNICA FINANC NÃO PAGA/ÁREA LIVRE",
+    "family": "pagamento_continuidade",
+    "stage": "interrupcao",
+    "justification": "Evidência cadastral; não substitui conciliação bancária. Evento limitado ao ciclo correspondente."
+  },
+  {
+    "code": "2473",
+    "label": "DISPONIB/LEILÃO ELET/PROPOSTAS FINANC NÃO PAGAS/ÁREA LIVRE",
+    "family": "pagamento_continuidade",
+    "stage": "interrupcao",
+    "justification": "Evidência cadastral; não substitui conciliação bancária. Evento limitado ao ciclo correspondente."
+  },
+  {
+    "code": "2778",
+    "label": "DISPONIB/LEILÃO ELETRÔNICO/PROPOSTA PAGA",
+    "family": "pagamento_continuidade",
+    "stage": "pagamento_registrado",
+    "justification": "Evidência cadastral; não substitui conciliação bancária. Evento limitado ao ciclo correspondente."
+  }
+]

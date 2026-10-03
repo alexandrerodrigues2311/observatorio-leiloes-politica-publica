@@ -1,0 +1,6 @@
+.env*
+.vercel/
+__pycache__/
+data/raw/
+data/derived/
+*internal*

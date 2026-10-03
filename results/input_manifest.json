@@ -1,0 +1,32 @@
+[
+  {
+    "file": "scm.zip",
+    "url": "https://dadosabertos.anm.gov.br/SCM/microdados/microdados-scm.zip",
+    "bytes": 181010122,
+    "sha256": "fde645bd8f21b6e0faccb04993688b9efd90d988d97d921b319a5c97175c9cee"
+  },
+  {
+    "file": "Cessoes_de_Direitos.csv",
+    "url": "https://dadosabertos.anm.gov.br/SCM/Cessoes_de_Direitos.csv",
+    "bytes": 13650327,
+    "sha256": "d35f7d4762173d8fb6103d50a4d0c2bc712832b7eb45a768c91679571b2b6635"
+  },
+  {
+    "file": "ResultadoRodadaDisponibilidade.csv",
+    "url": "https://dadosabertos.anm.gov.br/SOPLE/ResultadoRodadaDisponibilidade.csv",
+    "bytes": 3646309,
+    "sha256": "25f5eca7ba5ecf038a7de4903d30f398cd0da7d916679e58cd6d31f121fd5ff2"
+  },
+  {
+    "file": "ResultadoAvaliacaoSocial.csv",
+    "url": "https://dadosabertos.anm.gov.br/SOPLE/ResultadoAvaliacaoSocial.csv",
+    "bytes": 60155,
+    "sha256": "87768b9ea7dee154e037c9e0958c2bce25084c6d5dc9e33e21f55c602f9c1f1f"
+  },
+  {
+    "file": "EstoqueAreas.csv",
+    "url": "https://dadosabertos.anm.gov.br/SOPLE/EstoqueAreas.csv",
+    "bytes": 21783580,
+    "sha256": "a26fb1aeb34357a35012b3a488df5bc5e483a7720695086b1e73a5fc3f1ed3e4"
+  }
+]

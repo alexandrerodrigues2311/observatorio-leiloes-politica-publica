@@ -1,0 +1,69 @@
+﻿code;label;state;records;justification
+99;DISPONIB/ÁREA S/PRETENDENTE PROCESSO ARQUIVADO - ÁREA LIVRE;livre;136458;"Liberação explícita registrada; não converter em oferta disponível."
+303;DISPONIB/CONSID PRIORITÁRIO - EDITAL P/PESQUISA PUBL;selecionada;9566;Seleção registrada, não comprovação de pagamento ou outorga.
+305;DISPONIB/ÁREA DISPONIBILIDADE PARA LAVRA - EDITAL PUBL;oferta;3149;Inclusão em procedimento, sem decisão final presumida.
+309;DISPONIB/CONSID PRIORITÁRIO - EDITAL P/LAVRA PUBL;selecionada;1561;Seleção registrada, não comprovação de pagamento ou outorga.
+310;DISPONIB/ÁREA DISPONIBILIDADE PARA PESQUISA - EDITAL PUBL;oferta;3106;Inclusão em procedimento, sem decisão final presumida.
+314;DISPONIB/CONSID PRIOR EDIT DISP PESQ PUBL;selecionada;252;Seleção registrada, não comprovação de pagamento ou outorga.
+328;DISPONIB/ÁREA DISPONIVEL ART 26 CM PUBL;entrada_disponibilidade;134808;"Entrada ou retorno explícito; exige leitura jurídica do caso."
+329;DISPONIB/ÁREA DISP LAVRA ART 26 CM PUBL;entrada_disponibilidade;385;"Entrada ou retorno explícito; exige leitura jurídica do caso."
+357;DISPONIB/TORNA S/EFEITO DISPO ART 26 CM PUBL;revisao;1418;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+360;DISPONIB/RECURSO PROTOC;recurso_pendente;2541;"Sinal de recurso; protocolo não determina sozinho efeito suspensivo."
+369;DISPONIB/RECURSO NEGADO-SUPERINTENDENTE PUBL;recurso_decidido;576;"Registro de decisão ou desistência; conferir recurso atingido."
+386;DISPONIB/RECURSO PROVIDO-SUPERINTENDENTE PUBL;recurso_decidido;217;"Registro de decisão ou desistência; conferir recurso atingido."
+677;DISPONIB/ÁREA DISPONIBILIDADE PARA PLG - EDITAL PUBL;oferta;2735;Inclusão em procedimento, sem decisão final presumida.
+1123;DISPONIB/CONSID PRIORITÁRIO - EDITAL ÁREA PLG PUBL;selecionada;10;Seleção registrada, não comprovação de pagamento ou outorga.
+1313;DISPONIB/BLOQUEIO TEMPORÁRIO PUBL;suspensa;25;Suspensão ou bloqueio explícito.
+1315;DISPONIB/PROPOSTA ÚNICA - EDITAL ENCERRADO;selecionada;479;Seleção registrada, não comprovação de pagamento ou outorga.
+1348;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA REQ PESQ PUBL;revisao;929;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1349;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA AUT PESQ PUBL;revisao;1952;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1350;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA REQ LICEN PUBL;revisao;190;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1351;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA LICEN PUBL;revisao;126;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1352;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA REQ PLG PUBL;revisao;2292;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1353;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA PLG PUBL;revisao;1;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1354;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA REQ EXT PUBL;revisao;3;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1355;DISPONIB/TORNA S/EFEITO DISPONIB ART 26-ÁREA REG EXT PUBL;revisao;15;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1666;DISPONIB/TORNA S/EFEITO EDITAL DISPON-ÁREA REQ LAV PUBL;revisao;136;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1667;DISPONIB/TORNA S/EFEITO EDITAL DISPON-ÁREA CONC LAV PUBL;revisao;49;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1805;DISPONIB/RECURSO - DIRETOR-GERAL PROTOC;recurso_pendente;585;"Sinal de recurso; protocolo não determina sozinho efeito suspensivo."
+1806;DISPONIB/RECURSO NEGADO - DIRETOR-GERAL PUBL;recurso_decidido;540;"Registro de decisão ou desistência; conferir recurso atingido."
+1807;DISPONIB/RECURSO PROVIDO - DIRETOR-GERAL PUBL;recurso_decidido;107;"Registro de decisão ou desistência; conferir recurso atingido."
+1809;DISPONIB/EXCLUSÃO DE PROCESSO EDITAL PUBL;revisao;1532;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1814;DISPONIB/EDITAL DISPONIB ART 26 CM PUBL;oferta;31;Inclusão em procedimento, sem decisão final presumida.
+1827;DISPONIB/ÁREA DESCARTADA EM ESTUDO;revisao;19524;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+1836;DISPONIB/ÁREA DESCARTADA DISPONIB PARA PLG - EDITAL PUBL;oferta;20;Inclusão em procedimento, sem decisão final presumida.
+1883;DISPONIB/ÁREA DESBLOQUEADA DISPONIB PARA PLG - EDITAL PUBL;desbloqueio;3;Registro de desbloqueio, sem certificação integral de aptidão.
+1887;DISPONIB/RECURSO AO MINISTRO PROTOC;recurso_pendente;164;"Sinal de recurso; protocolo não determina sozinho efeito suspensivo."
+1888;DISPONIB/RECURSO AO MINISTRO NEGADO PUBL;recurso_decidido;13;"Registro de decisão ou desistência; conferir recurso atingido."
+1889;DISPONIB/RECURSO AO MINISTRO PROVIDO PUBL;recurso_decidido;1;"Registro de decisão ou desistência; conferir recurso atingido."
+2275;APTO DISP/ÁREA APTA PARA DISPONIBILIDADE;apta;36922;"Aptidão cadastral registrada; conferir requisitos atuais."
+2304;DISPONIB/EDITAL OFERTA PÚBLICA PARA PLG PUBL;oferta;420;Inclusão em procedimento, sem decisão final presumida.
+2305;DISPONIB/ÁREA DISPONIBILIDADE PARA LAVRA - EDITAL PUBL;oferta;437;Inclusão em procedimento, sem decisão final presumida.
+2310;DISPONIB/ÁREA DISPONIBILIDADE PARA PESQUISA - EDITAL PUBL;oferta;4433;Inclusão em procedimento, sem decisão final presumida.
+2338;DISPONIB/EDITAL OFERTA PÚBLICA PARA PESQUISA PUBL;oferta;20437;Inclusão em procedimento, sem decisão final presumida.
+2339;DISPONIB/EDITAL OFERTA PÚBLICA PARA LAVRA PUBL;oferta;1010;Inclusão em procedimento, sem decisão final presumida.
+2463;DISPONIB/LEILÃO ELET/PROPOSTA PAGA SEM REQ/RETORNO DISPONIB;entrada_disponibilidade;95;"Entrada ou retorno explícito; exige leitura jurídica do caso."
+2464;DISPONIB/LEILÃO ELET/PROPOSTA NÃO PAGA/RETORNO DISPONIB;entrada_disponibilidade;1104;"Entrada ou retorno explícito; exige leitura jurídica do caso."
+2465;DISPONIB/MANIFESTAÇÃO ÚNICA OFERTA PÚBLICA;selecionada;4573;Seleção registrada, não comprovação de pagamento ou outorga.
+2466;DISPONIB/MANIFESTAÇÃO ÚNICA OF PÚBL/SEM PROT REQ/ÁREA LIVRE;livre;2480;"Liberação explícita registrada; não converter em oferta disponível."
+2467;DISPONIB/LEILÃO ELETRÔNICO ÁREA PARA LAVRA;oferta;695;Inclusão em procedimento, sem decisão final presumida.
+2468;DISPONIB/LEILÃO ELETRÔNICO ÁREA PARA PESQUISA;oferta;8355;Inclusão em procedimento, sem decisão final presumida.
+2469;DISPONIB/AVALIAÇÃO SOCIAL/ÁREA PARA PLG;oferta;0;Inclusão em procedimento, sem decisão final presumida.
+2470;DISPONIB/LEILÃO ELET/SEM REGISTRO PROPOSTA/ÁREA LIVRE;livre;1910;"Liberação explícita registrada; não converter em oferta disponível."
+2471;DISPONIB/LEILÃO ELET/PROPOSTA PAGA/SEM PROTOC REQ/ÁREA LIVRE;livre;66;"Liberação explícita registrada; não converter em oferta disponível."
+2472;DISPONIB/LEILÃO ELET/PROP ÚNICA FINANC NÃO PAGA/ÁREA LIVRE;livre;97;"Liberação explícita registrada; não converter em oferta disponível."
+2473;DISPONIB/LEILÃO ELET/PROPOSTAS FINANC NÃO PAGAS/ÁREA LIVRE;livre;85;"Liberação explícita registrada; não converter em oferta disponível."
+2649;DISPONIB/AVALIAÇÃO SOCIAL/ÁREA CONQUISTADA PARA PLG;selecionada;123;Seleção registrada, não comprovação de pagamento ou outorga.
+2650;DISPONIB/ÁREA SUSPENSA;suspensa;19;Suspensão ou bloqueio explícito.
+2651;DISPONIB/LEILÃO ELETRÔNICO/ARREMATADA/LAVRA;selecionada;391;Seleção registrada, não comprovação de pagamento ou outorga.
+2652;DISPONIB/LEILÃO ELETRÔNICO/ARREMATADA/PESQUISA;selecionada;2874;Seleção registrada, não comprovação de pagamento ou outorga.
+2653;DISPONIB/EDITAL DISPONIBILIDADE CANCELADO;revisao;4644;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+2677;DISPONIB/ÁREA DISPONIBILIDADE PARA PLG - EDITAL PUBL;oferta;0;Inclusão em procedimento, sem decisão final presumida.
+2743;DISPONIB/AVALIAÇÃO SOCIAL/SEM PROTOC REQ/ÁREA LIVRE;livre;30;"Liberação explícita registrada; não converter em oferta disponível."
+2777;DISPONIB/TORNA S/EFEITO EDITAL DISPON-ÁREA DIR REQ LAV PUBL;revisao;5;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+2802;DISPONIB/ÁREA DESCARTADA DISPONIB P/PESQUISA - EDITAL PUBL;oferta;149;Inclusão em procedimento, sem decisão final presumida.
+2836;DISPONIB/ÁREA DESCARTADA DISPONIB PARA PLG - EDITAL PUBL;oferta;1;Inclusão em procedimento, sem decisão final presumida.
+2865;DISPONIB/LEILÃO ELET/SEM REGISTRO PROPOSTA/RETORNO DISPONIB;entrada_disponibilidade;0;"Entrada ou retorno explícito; exige leitura jurídica do caso."
+2883;DISPONIB/ÁREA DESBLOQUEADA DISPONIB PARA PLG - EDITAL PUBL;desbloqueio;0;Registro de desbloqueio, sem certificação integral de aptidão.
+2956;DISPONIB/EXCLUSÃO DE PROCESSO EDITAL (SOPLE);revisao;0;"Ato cancelado, excluído ou sem efeito; não presumir retorno automático."
+2963;DISPONIB/DESISTÊNCIA DE RECURSO PUBL;recurso_decidido;0;"Registro de decisão ou desistência; conferir recurso atingido."
