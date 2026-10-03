@@ -1,0 +1,14 @@
+{
+  "cox_independent_finite_difference_score_max": 0.0,
+  "logit_independent_finite_difference_score_max": 7.105427357601001e-10,
+  "public_inventory_unique": 30861,
+  "conflict_filter": 428,
+  "process_format": "passed",
+  "public_fields_allowlist": "passed",
+  "normalization_collision": {
+    "process": "832.750/2006",
+    "rows": 2,
+    "status_both": "Não apta para Disponibilidade",
+    "rule": "Primeiro valor não vazio por campo. Identificador normalizado; sem alteração dos totais principais."
+  }
+}
