@@ -6,6 +6,7 @@ const studyStory=[
  ['minerais','Recorte mineral','Como os minerais estratégicos se inserem no conjunto?','Compare o recorte com o universo geral, observando sobreposição de substâncias e critérios de enquadramento.'],
  ['participantes','Conhecer participantes','Quem participa e quais trajetórias observamos?','Distinga vencedor, titular e sócio. Características atuais não são necessariamente as existentes no leilão.'],
  ['trajetorias','Seguir os direitos','O que acontece após a seleção?','Examine continuidade, cessões e ramificações sem transformar transferência em prova de especulação.'],
+ ['cessoes','Fluxos de cessão','Quem recebe e quantas vezes os direitos mudam?','Compare partes, experiência anterior e ramos. A correspondência de participante por rodada não identifica lances perdedores.'],
  ['fiscal','Verificar obrigações','Quais resultados têm evidência fiscal?','Separe lance, TAH, CFEM e dívida ativa. Ausência de registro não confirma inadimplência.'],
  ['incentivos','Discutir instrumentos','Como traduzir evidência em política pública?','Explore hipóteses de incentivos e condições de participação, distinguindo simulações de efeitos demonstrados.'],
  ['validacao','Avaliar confiança','Até onde podemos concluir?','Consulte cobertura, validação e limitações antes de usar o resultado em decisões.'],

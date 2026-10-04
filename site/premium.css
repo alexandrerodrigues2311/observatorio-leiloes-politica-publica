@@ -2,3 +2,5 @@ html{scroll-padding-top:170px}.premium-hero{background:linear-gradient(90deg,rgb
 
 .journey-step{padding:14px;border:1px solid #487f7c;background:#fff;color:#173f46;border-radius:10px;cursor:pointer;font:inherit}.journey-step[aria-pressed="true"]{background:#173f46;color:#fff}.journey-step:focus-visible{outline:3px solid #cb9a42;outline-offset:3px}
 .story-context,.story-start{padding:20px;margin:20px 0;border:1px solid #d7e5df;border-radius:16px;background:#f4f8f5}.story-next{display:flex;justify-content:space-between;gap:20px;padding:30px 0}.story-next a,.stage-links a{font-weight:700;color:#176e61}.leaflet-tooltip{font:13px/1.6 system-ui;max-width:320px;white-space:normal} .legend button{margin:4px}
+
+.transfer-timeline{border-left:3px solid #007f86;margin:24px 0 24px 16px;padding-left:28px}.transfer-timeline li{padding:12px 8px 18px}.transfer-timeline p{margin:5px 0}.filters label{display:flex;flex-direction:column;gap:6px}.filters select,.filters input{max-width:100%;min-height:42px}#tr-cycle{width:100%;max-width:100%;padding:12px}
